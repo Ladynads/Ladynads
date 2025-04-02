@@ -67,12 +67,6 @@ I'm always expanding my developer toolkit and currently diving deeper into:
 
 ---
 
-## 📈 GitHub Stats
-
-![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ladynads&show_icons=true&theme=radical)
-
----
-
 ## 📬 Contact
 
 - **Portfolio:** [www.nadiab.dev](https://www.nadiab.dev)  
