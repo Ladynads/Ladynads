@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-hero-stats.vercel.app/api/hero?username=Ladynads&cta=Follow&subtitle=Junior%20Full-Stack%20Developer%20%7C%20Creator%20%7C%20Lifelong%20Learner" alt="Hero Banner">
+  <img src="https://github.com/Ladynads/Ladynads/blob/main/Nadia_Bakal_Neon_Coded_Remix_Purple.png" alt="Nadia Bakal - Junior Full-Stack Developer" style="max-width:100%;">
 </p>
 
 # Hi, I'm Nadia
