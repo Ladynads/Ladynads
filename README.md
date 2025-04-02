@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Ladynads/Ladynads/blob/main/Nadia_Bakal_Neon_Coded_Remix_Purple.png" alt="Nadia Bakal - Junior Full-Stack Developer" style="max-width:100%;">
+  <img src="https://github.com/Ladynads/Ladynads/blob/main/Nadia_Bakal_Neon_Coded_Remix_Purple.png" alt="Nadia Bakal - Junior Full-Stack Developer" height="200">
 </p>
+
 
 # Hi, I'm Nadia
 
