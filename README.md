@@ -1,4 +1,4 @@
-<img src="https://github.com/Ladynads/Ladynads/blob/main/Nadia_Bakal_github banner.png" alt="Nadia Bakal - Junior Full-Stack Developer" width="100%" style="max-height: 350px; object-fit: cover;">
+<img src="https://github.com/Ladynads/Ladynads/blob/main/Nadia_Bakal_github_banner.png" alt="Nadia Bakal - Junior Full-Stack Developer" width="100%" style="max-height: 350px; object-fit: cover;">
 
 
 
