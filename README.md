@@ -26,12 +26,7 @@ Welcome to my GitHub profile. With over a decade of experience in operational le
 
 ## Projects
 
-### [CreatorVerse](https://github.com/Ladynads/creaverse)  
-A full-stack invite-only community platform for creators featuring authentication, AI-powered content suggestions, and a modern interface.  
-**Key Features:**
-- Role-based access and profile editing  
-- Interactive feed with real-time content  
-- Deployed with Heroku + custom domain  
+
 
 ### [Werds 4 Nerds](https://github.com/YOUR_TEAM_REPO_LINK) *(Hackathon Project)*  
 A Django-based word scramble game with score tracking and leaderboards.  
@@ -69,7 +64,7 @@ I'm always expanding my developer toolkit and currently diving deeper into:
 
 ## 📬 Contact
 
-- **Portfolio:** [www.nadiab.dev](https://www.nadiab.dev)  
+
 - **Email:** hello@nadiab.dev  
 - **GitHub:** [@Ladynads](https://github.com/Ladynads)  
 - **LinkedIn:** [linkedin.com/in/nadia-bakal-401977146](https://www.linkedin.com/in/nadia-bakal-401977146/)
